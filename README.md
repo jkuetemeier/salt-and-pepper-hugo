@@ -1,6 +1,6 @@
 # Salt & Pepper
 
-*Salt & Pepper - A Hugo boilerplate project with Brunch theme and batteries included*
+**Salt & Pepper - A Hugo boilerplate project with [Brunch](https://github.com/jkuetemeier/brunch-hugo-coffee-bootstrap-theme) theme and batteries included**
 
 ## Warning - Alpha
 
