@@ -1,0 +1,3 @@
+[submodule "themes/brunch"]
+	path = themes/brunch
+	url = git@github.com:jkuetemeier/brunch-hugo-coffee-bootstrap-theme.git
