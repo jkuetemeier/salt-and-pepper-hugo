@@ -13,7 +13,7 @@ The project is very young and in an alpha state... you have been warned ;-)
 
 # LICENSE
 
-## Copyright 2016 Jörg Kütemeier
+**Copyright 2016 Jörg Kütemeier**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
