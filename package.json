@@ -1,4 +1,5 @@
 {
+
   "name": "salt-and-pepper-hugo",
   "version": "0.1.0",
   "description": "Salt & Pepper - A Hugo boilerplate project with Brunch theme and batteries included",
@@ -6,10 +7,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jkuetemeier/salt-and-pepper-hugo.git"
   },
+
   "keywords": [
     "hugo",
     "static",
@@ -18,10 +21,19 @@
     "boilerplate",
     "brunch"
   ],
+
   "author": "Joerg Kuetemeier <jk@jkuetemeier.de> (https://kuetemeier.de/)",
+
   "license": "Apache-2.0",
+
   "bugs": {
     "url": "https://github.com/jkuetemeier/salt-and-pepper-hugo/issues"
   },
-  "homepage": "https://github.com/jkuetemeier/salt-and-pepper-hugo#readme"
+
+  "homepage": "https://github.com/jkuetemeier/salt-and-pepper-hugo#readme",
+
+  "scripts": {
+    "start": "hugo server --watch & cd themes/brunch; brunch watch"
+  },
+
 }
