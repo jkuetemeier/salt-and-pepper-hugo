@@ -1,14 +1,16 @@
+## Archived
+
+I'm not using this code any more.
+
+Of course, I'm still using HUGO, but with pipes (https://gohugo.io/hugo-pipes/) and rarely with bootstrap.
+
+See https://wolfszwinkern.com for more hints on my new hugo projects.
+
+This code stays here for your reference. Enjoy :-)
+
 # Salt & Pepper
 
-**Salt & Pepper - A Hugo boilerplate project with [Brunch](https://github.com/jkuetemeier/brunch-hugo-coffee-bootstrap-theme) theme and batteries included**
-
-## Warning - Alpha
-
-The project is very young and in an alpha state... you have been warned ;-)
-
-
-## Getting started
-
+**Salt & Pepper - A Hugo boilerplate project with [Brunch](https://github.com/kuetemeier/brunch-hugo-coffee-bootstrap-theme) theme and batteries included**
 
 
 # LICENSE
